@@ -121,7 +121,7 @@ body {
 
 .window {
   overflow: hidden;
-  width: 805px;
+  width: 950px;
 }
 
 .project-container {
@@ -132,12 +132,12 @@ body {
 
 .project {
   border-radius: 5px;
-  border: 2px solid #000;
+  border: 2px solid rgb(5, 70, 19);
   display: inline-block;
-  height: 400px;
+  height: 465px;
   margin: 0 8px;
   transition: all 0.2s ease-in-out;
-  width: 250px;
+  width: 280px;
 }
 
 .project:hover {
@@ -146,23 +146,23 @@ body {
 }
 
 .project1 {
-  background: center / cover no-repeat url(./images/crearHV.001.jpeg);
-}
-
-.project2 {
-  background: center / cover no-repeat url(./images/crearHV.002.jpeg);
-}
-
-.project3 {
   background: center / cover no-repeat url(./images/historias-ig.001.jpeg);
 }
 
-.project4 {
+.project2 {
   background: center / cover no-repeat url(./images/historias-ig.002.jpeg);
 }
 
-.project5 {
+.project3 {
   background: center / cover no-repeat url(./images/historias-ig.003.jpeg);
+}
+
+.project4 {
+  background: center / cover no-repeat url(./images/historias-ig.004.jpeg);
+}
+
+.project5 {
+  background: center / cover no-repeat url(./images/historias-ig.001.jpeg);
 }
 
 .arrow {
