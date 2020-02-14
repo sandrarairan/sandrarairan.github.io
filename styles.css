@@ -68,7 +68,7 @@ body {
 }
 
 .header-img {
-  background: center / contain no-repeat url(./images/juliana.jpeg);
+  background: center / contain no-repeat url(./images/sandra.jpeg);
   border-radius: 50%;
   border: 1px solid var(--gris-oscuro);
   box-shadow: 8px 16px 32px 0px var(--shadow);
@@ -146,23 +146,23 @@ body {
 }
 
 .project1 {
-  background: center / cover no-repeat url(./images/project1.png);
+  background: center / cover no-repeat url(./images/crearHV.001.jpeg);
 }
 
 .project2 {
-  background: center / cover no-repeat url(./images/project2.png);
+  background: center / cover no-repeat url(./images/crearHV.002.jpeg);
 }
 
 .project3 {
-  background: center / cover no-repeat url(./images/project3.png);
+  background: center / cover no-repeat url(./images/historias-ig.001.jpeg);
 }
 
 .project4 {
-  background: center / cover no-repeat url(./images/project4.png);
+  background: center / cover no-repeat url(./images/historias-ig.002.jpeg);
 }
 
 .project5 {
-  background: center / cover no-repeat url(./images/project5.png);
+  background: center / cover no-repeat url(./images/historias-ig.003.jpeg);
 }
 
 .arrow {
@@ -266,7 +266,7 @@ input {
 }
 
 .modal-project-image {
-  background: center / cover no-repeat url(./images/project1.png);
+  background: center / cover no-repeat url(./images/historias-ig.001.jpeg);
   border-radius: 5px;
   border: 2px solid #000;
   height: 400px;
