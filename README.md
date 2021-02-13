@@ -4,7 +4,7 @@ En este curso, mejoraremos la accesibilidad un portafolio personal. Espero que a
 prácticas accesibles en tu propio portafolio!
 
 Usa esta URL para probar la accesibilidad con Lighthouse al principio del curso:
-https://
+https://sandrarairan.github.io/index.html
 
 Usa esta URL para probar la accesibilidad al final:
-https://
+https://sandrarairan.github.io/final.html
